@@ -110,7 +110,7 @@
 
 - CPU Cores Allocated: 4
   - Ballooning Device=off
-- RAM Allocated: 6 GB
+- RAM Allocated: 8 GB
 - Storage Allocated: 64 GB
 
 **VLAN**: ${DMZ_VLAN}
